@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I am a currently a student at EAE Business School, studying in the Big Data & Analytics Master
 
-- 🛩️ I have a Bachelors in Business Administration and over 4 years in Supply Chain & Logistics
+- 🛩️ I have a Bachelors in Business Administration and over 4 years of experience in Supply Chain & Logistics
 
 - 🤖 I am extremely curious about many topics, my top curiosities are about the Data and Fashion World
 
