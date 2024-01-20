@@ -4,7 +4,7 @@
 
 - 🛩️ I have a Bachelors in Business Administration and over 4 years of experience in Supply Chain & Logistics
 
-- 🤖 I am extremely curious about many topics, my top interests are about the Data and Sustainability
+- 🤖 I am extremely curious about many topics, my top interests are about Data and Sustainability
 
 - ❤️ I have a passion in music and love playing/watching sports
 
