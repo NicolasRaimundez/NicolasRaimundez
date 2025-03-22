@@ -1,10 +1,12 @@
 ### Hi there, im Nicolas Raimundez! 👋
 
-- 🧑‍💻 I am a currently a student at EAE Business School, studying in the Big Data & Analytics Master
+- 🧑‍💻 I'm an Argentine data enthusiast with a Master's Degree in Big Data & Analytics from EAE Business School and a Bachelor's in Business Administration. 
 
-- 🛩️ I have a Bachelors in Business Administration and over 4 years of experience in Supply Chain & Logistics
+- 🛩️ My professional journey has taken me from analyzing supply chain metrics at Dafiti to developing data solutions in Azure at Ecolab.
 
-- 🤖 I am extremely curious about many topics, my top interests are about Data and Sustainability
+- ⚡ I'm proficient in SQL, Python, Power BI, and various Azure services, and I'm passionate about leveraging data to solve complex problems.
+
+- 🤖 I am extremely curious about many topics, my top interests are about Data, Automation and Sustainability
 
 - ❤️ I have a passion in music and love playing/watching sports
 
