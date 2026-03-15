@@ -27,5 +27,6 @@
 ---
 
 ### 📫 Connect with me:
+* 🔍 **[Check My Portfolio Website Here!](https://nicolasraimundez.my.canva.site/)**
 * 📧 Email: [nicolasraimundez@gmail.com](mailto:nicolasraimundez@gmail.com)
-* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-raimundez/)
+* 🌐 [Lets connect on Linkedin!](https://www.linkedin.com/in/nicolas-raimundez/)
