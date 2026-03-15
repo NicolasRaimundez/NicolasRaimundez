@@ -23,4 +23,4 @@
 
 ### 📫 Connect with me:
 * 📧 Email: [nicolasraimundez@gmail.com](mailto:nicolasraimundez@gmail.com)
-* 🔗 [LinkedIn Profile]([YOUR_LINKEDIN_URL])
+* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-raimundez/)
