@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 * 🎓 **Education:** Master’s in Big Data & Analytics (EAE Business School) & Bachelor's in Business Administration.
-* 💼 **Experience:** **Senior BI Consultant** | Previously **Data Engineer Intern** at Ecolab & **Supply Chain Analyst** at Dafiti.
+* 💼 **Experience:** Currently **Senior BI Consultant** at ClearPeaks | Previously **Data Engineer Intern** at Ecolab & **Supply Chain Analyst** at Dafiti.
 * 🌍 **Based in:** Barcelona, Catalunya.
 
 ### 🛠️ Core Competencies
