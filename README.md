@@ -3,8 +3,13 @@
 ### 👨‍💻 About Me
 * 🎓 **Education:** Master’s in Big Data & Analytics (EAE Business School) & Bachelor's in Business Administration.
 * 💼 **Experience:** Data solutions at **Ecolab (Azure)** and Supply Chain metrics at **Dafiti**.
-* 🛠️ **Tech Stack:** Expert in **SQL, Python, Power BI, Looker Studio, Azure & Google Cloud Ecosystems**.
 * 🌍 **Based in:** Barcelona, Catalunya.
+
+### 🛠️ Core Competencies
+* ⚙️ **Ingestion & Orchestration:** Apps Script, Azure Data Factory, Informatica.
+* ☁️ **Storage & Infrastructure:** Google BigQuery, Snowflake, Microsoft Azure.
+* 🧠 **Transformation & Analysis:** SQL (Advanced CTEs/Stored Procs), Python, Dataiku, Excel.
+* 📊 **Visualization & BI:** Looker Studio, Power BI, Tableau.
 
 ### ⚡ Fun Facts & Interests
 * 🌱 Passionate about **Automation and Sustainability**.
