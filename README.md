@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 * 🎓 **Education:** Master’s in Big Data & Analytics (EAE Business School) & Bachelor's in Business Administration.
 * 💼 **Experience:** Data solutions at **Ecolab (Azure)** and Supply Chain metrics at **Dafiti**.
-* 🛠️ **Tech Stack:** Expert in **SQL, Python, Power BI, and Azure Ecosystem**.
+* 🛠️ **Tech Stack:** Expert in **SQL, Python, Power BI, Looker Studio, Azure & Google Cloud Ecosystems**.
 * 🌍 **Based in:** Barcelona, Catalunya.
 
 ### ⚡ Fun Facts & Interests
