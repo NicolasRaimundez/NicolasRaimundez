@@ -6,9 +6,9 @@
 * 🌍 **Based in:** Barcelona, Catalunya.
 
 ### 🛠️ Core Competencies
-* ⚙️ **Ingestion & Orchestration:** Apps Script, Azure Data Factory, Informatica.
-* ☁️ **Storage & Infrastructure:** Google BigQuery, Snowflake, Microsoft Azure.
-* 🧠 **Transformation & Analysis:** SQL (Advanced CTEs/Stored Procs), Python, Dataiku, Excel.
+* ⚙️ **Ingestion & Orchestration:** Apps Script, Azure Data Factory, Informatica PowerCenter.
+* ☁️ **Storage & Infrastructure:** Google BigQuery, Microsoft Azure, Snowflake.
+* 🧠 **Transformation & Analysis:** SQL (Advanced CTEs/Stored Procs), Python, VBA in Excel.
 * 📊 **Visualization & BI:** Looker Studio, Power BI, Tableau.
 
 ### ⚡ Fun Facts & Interests
