@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Featured Project: [Vortex Events Analytics Platform]([https://github.com/NicolasRaimundez/vortex-events-analytics-platform])
+### 🚀 Featured Project: [Vortex Events Analytics Platform](https://github.com/NicolasRaimundez/vortex-events-analytics-platform)
 **Freelance Data Engineering Solution**
 * **The Problem:** Scaled legacy ticketing data from row-limited spreadsheets to a high-performance Cloud Warehouse.
 * **The Stack:** Google BigQuery, Apps Script (Automation), SQL (Star Schema), and Looker Studio.
