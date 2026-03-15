@@ -26,7 +26,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Contact & Portfolio:
 * 🔍 **[Check My Portfolio Website Here!](https://nicolasraimundez.my.canva.site/)**
 * 📧 Email: [nicolasraimundez@gmail.com](mailto:nicolasraimundez@gmail.com)
 * 🌐 [Lets connect on Linkedin!](https://www.linkedin.com/in/nicolas-raimundez/)
