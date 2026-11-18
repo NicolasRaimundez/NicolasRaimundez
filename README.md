@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas Raimundez
+### Hi, I'm Nicolas Raimundez 👋
 
 Data Engineer with 7+ years of experience building cloud data architectures, scalable ETL/ELT pipelines, and dimensional data models across Azure, Databricks, Microsoft Fabric, and Google BigQuery.
 
@@ -8,7 +8,7 @@ Data Engineer with 7+ years of experience building cloud data architectures, sca
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 - **Cloud & Data Warehousing:** Microsoft Azure (ADF, Databricks, Fabric, SQL Server), Google BigQuery, Snowflake, AWS Redshift
 - **Languages & Transformation:** SQL (T-SQL, MySQL, PostgreSQL), Python (PySpark, Pandas, GeoPandas), dbt
@@ -17,7 +17,7 @@ Data Engineer with 7+ years of experience building cloud data architectures, sca
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 #### 1. [Vortex Events Analytics Platform](https://github.com/NicolasRaimundez/vortex-events-analytics-platform)
 End-to-end cloud data warehouse and automated ELT pipeline scaling legacy ticketing operations into a structured analytical model.
@@ -30,6 +30,8 @@ Automated geospatial data processing pipeline designed to validate agricultural 
 
 ---
 
-### Connect
+### 📫 Connect
+
+- **Portfolio:** [nicolasraimundez.my.canva.site](https://nicolasraimundez.my.canva.site/)
 - **LinkedIn:** [linkedin.com/in/nicolas-raimundez](https://www.linkedin.com/in/nicolas-raimundez/)
 - **Email:** nicolasraimundez@gmail.com
