@@ -1,32 +1,35 @@
-# Hi there, I'm Nicolas Raimundez! 👋
+### Hi, I'm Nicolas Raimundez
 
-### 👨‍💻 About Me
-* 🎓 **Education:** Master’s in Big Data & Analytics (EAE Business School) & Bachelor's in Business Administration.
-* 💼 **Experience:** Currently **Senior BI Consultant** at ClearPeaks | Previously **Data Engineer Intern** at Ecolab & **Supply Chain Analyst** at Dafiti.
-* 🌍 **Based in:** Barcelona, Catalunya.
+Data Engineer with 7+ years of experience building cloud data architectures, scalable ETL/ELT pipelines, and dimensional data models across Azure, Databricks, Microsoft Fabric, and Google BigQuery[cite: 28, 31].
 
-### 🛠️ Core Competencies
-* ⚙️ **Ingestion & Orchestration:** Apps Script, Azure Data Factory, Informatica PowerCenter.
-* ☁️ **Storage & Infrastructure:** Google BigQuery, Microsoft Azure, Snowflake.
-* 🧠 **Transformation & Analysis:** SQL (Advanced CTEs/Stored Procs), Python, VBA in Excel.
-* 📊 **Visualization & BI:** Looker Studio, Power BI, Tableau.
-
-### ⚡ Fun Facts & Interests
-* 🌱 Passionate about **Automation and Sustainability**.
-* 🎾 Sports enthusiast: Football, Tennis, Padel, and Golf.
-* 🎶 Music producer and avid reader.
+- **Current Role:** Senior Data & BI Engineer at **ClearPeaks** (Barcelona)[cite: 28]
+- **Previous Experience:** Data Engineer at **Ecolab** | Senior Supply Chain Data Analyst at **Dafiti**[cite: 28, 29]
+- **Education:** M.Sc. in Big Data & Analytics — EAE Business School[cite: 29, 31]
 
 ---
 
-### 🚀 Featured Project: [Vortex Events Analytics Platform](https://github.com/NicolasRaimundez/vortex-events-analytics-platform)
-**Freelance Data Engineering Solution**
-* **The Problem:** Scaled legacy ticketing data from row-limited spreadsheets to a high-performance Cloud Warehouse.
-* **The Stack:** Google BigQuery, Apps Script (Automation), SQL (Star Schema), and Looker Studio.
-* **Impact:** Automated the ingestion of **200,000+ records**, enabling hyper-segmented email marketing via Perfit.
+### Tech Stack
+
+- **Cloud & Data Warehousing:** Microsoft Azure (ADF, Databricks, Fabric, SQL Server), Google BigQuery, Snowflake, AWS Redshift[cite: 28, 29, 31]
+- **Languages & Transformation:** SQL (T-SQL, MySQL, PostgreSQL), Python (PySpark, Pandas, GeoPandas), dbt[cite: 28, 29]
+- **ETL, Orchestration & AI:** Dataiku, Informatica PowerCenter, Enterprise AI Agents (Copilot Studio / MCP)[cite: 28]
+- **BI & Analytics:** Microsoft Power BI (PL-300 Certified), Tableau, Looker Studio[cite: 17, 28, 29, 31]
 
 ---
 
-### 📫 Contact & Portfolio:
-* 🔍 **[Check My Portfolio Website Here!](https://nicolasraimundez.my.canva.site/)**
-* 📧 Email: [nicolasraimundez@gmail.com](mailto:nicolasraimundez@gmail.com)
-* 🌐 [Lets connect on Linkedin!](https://www.linkedin.com/in/nicolas-raimundez/)
+### Featured Projects
+
+#### 1. [Vortex Events Analytics Platform](https://github.com/NicolasRaimundez/vortex-events-analytics-platform)
+End-to-end cloud data warehouse and automated ELT pipeline scaling legacy ticketing operations into a structured analytical model.
+- **Stack:** Google BigQuery, SQL (Star Schema), Apps Script, Looker Studio[cite: 31]
+- **Impact:** Automated ingestion and transformation of **200,000+ records** to power segmented marketing and operational reporting[cite: 31].
+
+#### 2. [FMT-Progreso — Geospatial EUDR Compliance Pipeline](https://github.com/NicolasRaimundez/FMT-Progreso)
+Automated geospatial data processing pipeline designed to validate agricultural plot boundaries and deforestation-free compliance under EU Deforestation Regulation (EUDR) standards.
+- **Stack:** Python, Geospatial Data Processing, Automated Validation Workflows
+
+---
+
+### Connect
+- **LinkedIn:** [linkedin.com/in/nicolas-raimundez](https://www.linkedin.com/in/nicolas-raimundez/)[cite: 28, 31]
+- **Email:** nicolasraimundez@gmail.com[cite: 28, 32]
