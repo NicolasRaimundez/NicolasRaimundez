@@ -3,7 +3,7 @@
 Data Engineer with 7+ years of experience building cloud data architectures, scalable ETL/ELT pipelines, and dimensional data models across Azure, Databricks, Microsoft Fabric, and Google BigQuery.
 
 - **Current Role:** Senior Data & BI Engineer at **ClearPeaks** (Barcelona)
-- **Previous Experience:** Data Engineer at **Ecolab** | Senior Supply Chain Data Analyst at **Dafiti**
+- **Previous Experience:** Data Engineer at **Ecolab** | Senior Data & Analytics Engineer – Supply Chain at **Dafiti**
 - **Education:** M.Sc. in Big Data & Analytics — EAE Business School
 
 ---
