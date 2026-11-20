@@ -4,7 +4,7 @@ Data Engineer with 7+ years of experience building cloud data architectures, sca
 
 - **Current Role:** Senior Data & BI Engineer at **ClearPeaks** (Barcelona)
 - **Previous Experience:** Data Engineer at **Ecolab** | Senior Data & Analytics Engineer – Supply Chain at **Dafiti**
-- **Education:** M.Sc. in Big Data & Analytics — EAE Business School
+- **Education:** M.Sc. in Big Data & Analytics — EAE Business School | B.B.A. (Business Administration) — Universidad Austral
 
 ---
 
